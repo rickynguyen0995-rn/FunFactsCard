@@ -1,0 +1,16 @@
+.card {
+    width: 280px;
+    height: 680px;
+    margin: 1vh 1vh 1vh 1vh;
+    background-color:darkgrey;
+}
+
+.component-group {
+    display: flex;
+    justify-content: center;
+    overflow-y: auto;
+}
+
+.button {
+    padding-top: 25px;
+}
